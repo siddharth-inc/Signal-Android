@@ -16,3 +16,6 @@ dependencies {
   implementation(libs.google.zxing.android.integration)
   implementation(libs.google.zxing.core)
 }
+
+
+// New code form VS Code
